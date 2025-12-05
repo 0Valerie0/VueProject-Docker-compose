@@ -19,7 +19,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone <ваш-репозиторий>
+   git clone https://github.com/0Valerie0/VueProject-Docker-compose
    cd dota2-heroes-gallery```
    
 2. Запустите через Docker Compose:
